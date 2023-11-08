@@ -35,7 +35,7 @@ We created the program which receives as arguments the string and/or name of a f
 ## Usage/Examples
 Cloning storage to your host
 ```CMD/Terminal 
-git clone git@git.01.alem.school:ayessenb/ascii-art.git
+git clone git@github.com:compygirl/ascii-art.git
 ```
 Go to the downloaded repository:
 
